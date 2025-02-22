@@ -1,0 +1,4 @@
+- 👋🏾 Hi, I’m @Dreciaxox
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on any beginner friendly projects☺️
