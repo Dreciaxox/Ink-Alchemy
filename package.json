@@ -1,0 +1,33 @@
+{
+  "name": "ink-and-alchemy",
+  "version": "1.0.0",
+  "description": "Ink & Alchemy + The Wildcrafted Mama - Digital products, homesteading, journaling, and spiritual tools.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-ga": "^3.3.0" 
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^13.0.0"
+  },
+  "keywords": [
+    "digital products",
+    "homesteading",
+    "spiritual growth",
+    "journaling",
+    "alchemy",
+    "nextjs",
+    "vercel"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
