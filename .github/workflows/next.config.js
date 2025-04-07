@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ['yourdomain.com', 'cdn.yourimagehost.com'],
+    domains: ['github.com/Dreciaxox/Ink-Alchemy', 'cdn.yourimagehost.com'],
   },
 };
